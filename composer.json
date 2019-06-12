@@ -12,5 +12,10 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
+    },
+    "autoload": {
+        "par-4": {
+            "aaa\\bbb\\": "src"
+        }
     }
 }
