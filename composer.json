@@ -1,0 +1,14 @@
+{
+    "name": "qq1415551519/test",
+    "description": "this is a learn for help",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "deng",
+            "email": "1415551519@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
