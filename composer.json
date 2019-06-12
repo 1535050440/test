@@ -14,8 +14,9 @@
         "php": ">=7.0"
     },
     "autoload": {
-        "par-4": {
+        "psr-4": {
             "aaa\\bbb\\": "src"
         }
+
     }
 }
