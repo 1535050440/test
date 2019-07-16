@@ -1,23 +1,14 @@
 {
-    "name": "qq1415551519/test",
-    "description": "php - this is a learn for help composer",
+    "name": "1415551519/test",
+    "description": "php++++++++",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "deng",
+            "name": "qq1415551519",
             "email": "1415551519@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "php": ">=7.0",
-        "another-vendor/package": "1.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "aaa\\bbb\\": "src"
-        }
-
-    }
+    "minimum-stability": "stable",
+    "require": {}
 }
